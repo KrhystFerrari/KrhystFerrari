@@ -16,7 +16,7 @@ About me? So...
 
 
 <div align="center">
-  <h3>I'm looking forward to contributing in web projects with community members<h3/>
+  <h3>I'm looking forward to contributing in web projects with community members!<h3/>
  </div>
 <br/>
 
