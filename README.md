@@ -1,5 +1,5 @@
 
-## HELLO!! My name is Krhystofferson, I'm a FrontEnd Developer from Brazil! 🖖
+## HELLO!! My name is Krhystofferson, I'm a Web Developer from Brazil! 🖖
 
 About me? So...
 
