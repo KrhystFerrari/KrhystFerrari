@@ -1,5 +1,5 @@
 
-## HELLO!! My name is Krhystofferson, I'm a IoT Developer from Brazil! 🖖
+## HELLO!! My name is Krhystofferson, I'm a Web/IoT Developer from Brazil! 🖖
 
 About me? So...
 
