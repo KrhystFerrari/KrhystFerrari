@@ -1,5 +1,5 @@
 
-## HELLO!! My name is Krhystofferson, I'm a Web/IoT Developer from Brazil! 🖖
+## HELLO!! My name is Krhystofferson, I'm a Web Developer from Brazil! 🖖
 
 About me? So...
 
@@ -9,7 +9,7 @@ About me? So...
 
 - I love cats. 😸
 
-- I love web and IoT development. 👨‍💻
+- I love web development. 👨‍💻
 
 
 <br/>
@@ -35,7 +35,6 @@ About me? So...
   <img align="center" alt="klf-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="klf-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="klf-c" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="klf-c++" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="klf-rjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="klf-rdx" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="klf-njs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
