@@ -46,6 +46,7 @@ About me? So...
   <img align="center" alt="klf-flask" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="klf-dj" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="klf-c" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <br>
   <img align="right" alt="gif" height="170" style="border-radius:50px;" src="https://media3.giphy.com/media/ypcExtSoEejLkxAsja/giphy.webp">
 </div>
   
