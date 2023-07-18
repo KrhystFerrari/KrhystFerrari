@@ -56,6 +56,6 @@ About me? So...
   <a href="https://www.linkedin.com/in/krhystofferson-ferrari-011385234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:krhystoffersonf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
- ![Snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/KrhystFerrari/KrhystFerrari/blob/output/github-contribution-grid-snake.svg)
  
 </div>
