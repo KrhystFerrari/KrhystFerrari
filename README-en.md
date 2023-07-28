@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<hr />
+<br />
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
 
