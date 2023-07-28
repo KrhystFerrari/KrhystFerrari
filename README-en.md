@@ -1,17 +1,17 @@
-<h1 align="center">Olá 👋, Sou Krhyst Ferrari</h1>
-<h3 align="center">Desenvolvedor Full Stack do Brasil</h3>
+<h1 align="center">Hi 👋, I'm Murilo Nascimento</h1>
+<h3 align="center">A Full Stack Developer From Brazil</h3>
 
 <table align="right">
   <tr>
     <td height="43px">
-      <b>
         <a href="README.md">Português 🇧🇷</a>
-      </b>
     </td>
   </tr>
   <tr>
     <td height="43px">
-      <a href="README-en.md">English 🇺🇸</a>
+      <b>
+       <a href="README-en.md">English 🇺🇸</a>
+      </b>
     </td>
   </tr>
 </table>
@@ -20,21 +20,21 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=krhystferrari&repo=krhystferrari&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Krhys" height="28px" />
 </div>
 
-- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js, Next.js e TypeScript</strong>
+- 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
 
-- 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa.</strong>
+- 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://krhyst-ferrari-dev.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://krhyst-ferrari-dev.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
 
-- 📫 Como entrar em contato comigo: <strong style="color: #61DAFB;">krhystoffersonf@gmail.com</strong>
+- 📫 How to reach me <strong style="color: #61DAFB;">krhystoffersonf@gmail.com</strong>
 
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Música Atual no Spotify">
+  <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
 </div>
 
-## Atividades
+## Activities
 
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=krhystferrari&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
@@ -50,7 +50,7 @@
   </div>
 </div>
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -92,7 +92,7 @@
  <img align="center" alt="klf-c" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </a>
 
-## Conecte-se comigo
+## Connect with me
 
 <a href="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" height="30" width="40" />
@@ -104,4 +104,4 @@
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake.svg)
