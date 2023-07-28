@@ -102,4 +102,4 @@
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-![Snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake.svg) -->
