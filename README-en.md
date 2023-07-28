@@ -18,9 +18,9 @@
 
 <br/>
 
-- 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
+- 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, Next.js, Material UI and TypeScript</strong>
 
-- 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
+- 💬 Ask me about <strong style="color: #61DAFB;">anything.</strong>
 
 - 👨‍💻 All of my projects are available at <a href="https://krhyst-ferrari-dev.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
 

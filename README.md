@@ -18,7 +18,7 @@
 
 <br/>
 
-- 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js, Next.js e TypeScript</strong>
+- 🌱 Atualmente estou trabalhando com <strong style="color: #61DAFB;">React.js, Next.js, Material UI e TypeScript</strong>
 
 - 💬 Pergunte-me sobre <strong style="color: #61DAFB;">qualquer coisa.</strong>
 
@@ -78,6 +78,9 @@
  <img align="center" alt="klf-exp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-mui" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
@@ -92,14 +95,13 @@
 
 ## Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" height="30" width="40" />
-</a>
-<a href="https://discord.com/users/8206" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
-</a>
-<a href="mailto:krhystoffersonf@gmail.com" target="_blank" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40"></a>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" height="30" width="40" />
+  </a>
+  <a href="mailto:krhystoffersonf@gmail.com" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40"></a>
+</div>
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)
+<!--[Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg)-->
