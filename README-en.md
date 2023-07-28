@@ -16,9 +16,7 @@
   </tr>
 </table>
 
-<div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=krhystferrari&repo=krhystferrari&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Krhys" height="28px" />
-</div>
+
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
 
