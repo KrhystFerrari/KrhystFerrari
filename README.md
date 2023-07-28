@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Krhyst Ferrari</h1>
-<h3 align="center" margin-bottom="30px">Desenvolvedor Full Stack do Brasil</h3>
+<h3 align="center">Desenvolvedor Full Stack do Brasil</h3>
 
 <table align="right">
   <tr>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-
+<br/>
 
 - 🌱 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js, Next.js e TypeScript</strong>
 
