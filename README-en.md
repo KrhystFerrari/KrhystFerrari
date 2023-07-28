@@ -18,7 +18,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
+- 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, Next.js and TypeScript</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
@@ -76,6 +76,9 @@
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-exp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-mui" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
