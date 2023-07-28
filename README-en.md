@@ -92,7 +92,7 @@
 
 ## Connect with me
 
-<div style="display: flex; flex-direction: row; gap: 15px;">
+<div style="display: flex; flex-direction: row; margin-right: 5px;">
   <a href="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krhystofferson-ferrari-011385234" height="30" width="40" />
   </a>
