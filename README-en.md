@@ -65,9 +65,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-rjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-  <img align="center" alt="klf-rdx" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img align="center" alt="klf-njs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
 </a>
@@ -79,18 +76,6 @@
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-mui" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
- <img align="center" alt="klf-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
- <img align="center" alt="klf-flask" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
-  <img align="center" alt="klf-dj" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
- <img align="center" alt="klf-c" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </a>
 
 ## Connect with me
