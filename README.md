@@ -50,32 +50,37 @@
 
 ## Linguagens e Ferramentas
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-TS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img align="center" alt="klf-rjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img align="center" alt="klf-njs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+<a href="https://expressjs.com//" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-exp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-nest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+</a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-mui" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-tcss" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </a>
 
 ## Conecte-se comigo
