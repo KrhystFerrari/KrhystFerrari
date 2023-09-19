@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Krhyst Ferrari</h1>
-<h3 align="center">A Full Stack Developer From Brazil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=34BACA00&center=true&vCenter=true&width=1000&lines=Hello%2C++i'm+Krhyst+Ferrari;Full+Stack+Developer;)](https://git.io/typing-svg)
 
 <table align="right">
   <tr>
@@ -92,6 +93,9 @@
   <a href="mailto:krhystoffersonf@gmail.com" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40"></a>
 </div>
 
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+</br>
+</br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <!--![Snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake.svg) -->
