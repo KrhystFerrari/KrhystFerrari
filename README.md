@@ -97,7 +97,7 @@
 </br>
 </br>
 
-![snake animation](https://github.com/KrhystFerrari/KrhystFerrari/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/krhystferrari/krhystferrari/blob/output/github-contribution-grid-snake2.svg)
 
 </br>
 
