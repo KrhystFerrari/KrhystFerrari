@@ -74,13 +74,13 @@
  <img align="center" alt="klf-exp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">  
- <img align="center" alt="klf-nest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+ <img align="center" alt="klf-nest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-mui" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
- <img align="center" alt="klf-tcss" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+ <img align="center" alt="klf-tcss" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </a>
 
 ## Conecte-se comigo
