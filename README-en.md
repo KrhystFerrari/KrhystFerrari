@@ -81,6 +81,12 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-tcss" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+</a>
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+</a>
 
 ## Connect with me
 
