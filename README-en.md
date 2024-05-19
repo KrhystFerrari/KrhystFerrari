@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, Java, Material UI and SpringBoot</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://krhyst-ferrari-dev.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://krhyst-ferrari-resume.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
 
 - 📫 How to reach me <strong style="color: #61DAFB;">krhystoffersonf@gmail.com</strong>
 
