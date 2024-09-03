@@ -19,9 +19,9 @@
 
 <br/>
 
-- 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, Java, Material UI and SpringBoot</strong>
+- 🌱 I’m currently working with <strong style="color: #61DAFB;">React.js, TypeScript, Material UI, TailWind CSS e Express.js</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://resume-krhyst-ferrari.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://resume-krhyst-ferrari.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Portfolio</a>
 
 - 📫 How to reach me <strong style="color: #61DAFB;">krhystoffersonf@gmail.com</strong>
 
