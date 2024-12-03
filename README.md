@@ -82,6 +82,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
  <img align="center" alt="klf-tcss" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer">  
+ <img align="center" alt="klf-stb" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg">
+</a>
 
 
 ## Conecte-se comigo
